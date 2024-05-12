@@ -1,10 +1,8 @@
-/* Resetting default margin and padding */
 body, h1, h2, p, img {
     margin: 0;
     padding: 0;
 }
 
-/* Setting default font */
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
@@ -12,7 +10,6 @@ body {
     color: #333;
 }
 
-/* Centering the header */
 header {
     text-align: center;
     padding: 20px 0;
@@ -20,30 +17,25 @@ header {
     color: #fff;
 }
 
-/* Styling the main content */
 main {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
 }
 
-/* Styling section headers */
 h2 {
     color: #333;
     margin-bottom: 10px;
 }
 
-/* Styling paragraphs */
 p {
     margin-bottom: 20px;
 }
 
-/* Styling the contact information */
 h2:last-of-type {
     margin-top: 40px;
 }
 
-/* Styling images */
 img {
     display: block;
     margin: 0 auto;
